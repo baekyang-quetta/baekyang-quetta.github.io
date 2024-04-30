@@ -12,5 +12,5 @@ sidebar_main: true
 
 &nbsp;
 
-# Name: Shine Loi Lee
+# Name: Quetta(백양)
 # Nationality: Korea
