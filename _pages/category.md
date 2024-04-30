@@ -9,6 +9,6 @@ sidebar_main: true
 ---
 
 # **BLOG**
-## [Blog](https://shine-loi.github.io/categories/blog)
+## [Blog](https://baekyang-quetta.github.io/categories/blog)
 
 &nbsp;
