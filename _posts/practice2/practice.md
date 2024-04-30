@@ -1,6 +1,6 @@
 ---
-title:  "연습용 포스트"
-excerpt: "포스팅 방법 연습"
+title:  "A practicing post"
+excerpt: "a practicing post"
 
 categories:
   - Blog
@@ -10,6 +10,6 @@ tags:
 toc: true
 toc_sticky: true
  
-date: 2023-07-30
-last_modified_at: 2023-07-30
+date: 2024-05-01
+last_modified_at: 2024-05-01
 ---
