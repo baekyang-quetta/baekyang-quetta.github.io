@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shine Loi Lee"
+  name             : "Quetta(백양)"
   avatar           : /assets/images/profile.jpg
   bio              : "Hello:)\n(I'm still studying how to make category...)"
   location         : "Korea, Seoul"
-  email            : "joett0514@gmail.com"
+  email            : ""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
