@@ -8,7 +8,7 @@ author_profile: true
 sidebar_main: true
 ---
 
-![image](/assets/images/profile.jpg){: width="50%" height="50%"}
+![image](/assets/images/profile.png){: width="50%" height="50%"}
 
 &nbsp;
 
