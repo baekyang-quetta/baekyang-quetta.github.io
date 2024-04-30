@@ -127,7 +127,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/backyang_quetta"
+      url: "https://instagram.com/baekyang_quetta"
 
 # Site Footer
 footer:
@@ -149,7 +149,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/backyang_quetta"
+      url: "https://www.instagram.com/baekyang_quetta"
     - label: "Open KKT"
       icon: "fab fa-fw fa-kickstarter-k"
       # url: "https://open.kakao.com/o/gMHS5dyf"
