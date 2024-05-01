@@ -1,10 +1,11 @@
 ---
 layout: default
 ---
-
-{%- if page.image -%}
-  <img src="{{- page.image | relative_url -}}" alt="" class="featured-image-post">
-{%- endif -%}
+<header class="post-header">
+ {%- if page.image -%}
+   <img src="{{- page.image | relative_url -}}" alt="" class="featured-image-post">
+ {%- endif -%}
+</header>
 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
