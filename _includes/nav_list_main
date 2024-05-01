@@ -25,5 +25,15 @@
                 {% endfor %}
             </ul>
       </li>
+      <li>
+        <span class="nav__sub-title">Croquis</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Croquis" %}
+                        <li><a href="/categories/croquis" class=""> Croquis ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+      </li>
   </ul>
 </nav>
