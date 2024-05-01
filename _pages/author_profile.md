@@ -8,7 +8,7 @@ author_profile: true
 sidebar_main: true
 ---
 
-![image](https://drive.usercontent.google.com/download?id=188BTJjX7sz0d8C0DwZeb6tbQHZKnt8J3&export=view&authuser=0){: width="50%" height="50%"}
+![image](/assets/images/profile.png){: width="50%" height="50%"}
 
 &nbsp;
 
