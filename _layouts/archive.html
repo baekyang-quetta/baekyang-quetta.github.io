@@ -20,7 +20,7 @@ layout: default
   <div class="archive">
     {%- if page.image -%}
       <img src="{{- page.image | relative_url -}}" alt="" class="featured-image-post">
-    {-% endif -%}
+    {%- endif -%}
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 id="page-title" class="page__title">{{ page.title }}</h1>
     {% endunless %}
