@@ -16,11 +16,11 @@
         <!--예: Cpp 카테고리 글들을 모아둔 페이지인 /categories/cpp 주소의 글로 링크 연결-->
         <!--예: category[1].size 로 해당 카테고리를 가진 글의 개수 표시--> 
 
-        <span class="nav__sub-title">Blog</span>
+        <span class="nav__sub-title">Comics</span>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "Blog" %}
-                        <li><a href="/categories/blog" class=""> Blog ({{category[1].size}})</a></li>
+                    {% if category[0] == "Comics" %}
+                        <li><a href="/categories/comics" class=""> Comics ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -31,6 +31,26 @@
                 {% for category in site.categories %}
                     {% if category[0] == "Croquis" %}
                         <li><a href="/categories/croquis" class=""> Croquis ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+      </li>
+      <li>
+        <span class="nav__sub-title">Illustrations</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Illustrations" %}
+                        <li><a href="/categories/illustrations" class=""> Illustrations ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+      </li>
+      <li>
+        <span class="nav__sub-title">Roughs</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Roughs" %}
+                        <li><a href="/categories/roughs" class=""> Roughs ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
