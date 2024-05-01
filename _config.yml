@@ -113,11 +113,14 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "email"
+      - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/baekyang_quetta"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-x-square"
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
@@ -125,9 +128,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/baekyang_quetta"
 
 # Site Footer
 footer:
