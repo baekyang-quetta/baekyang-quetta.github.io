@@ -8,6 +8,8 @@ main:
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
+  - title: "Home"
+    url: https://baekyang-quetta.github.io/
   - title: "Author"
     url: https://baekyang-quetta.github.io/author_profile
   - title: "Category"
