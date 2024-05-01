@@ -12,5 +12,13 @@ sidebar_main: true
 
 &nbsp;
 
-# Name: Quetta(백양)
-# Nationality: Korea
+## About
+Name: Quetta\
+Nationality: Korea\
+Quetta is one of the SI prefixes which means \\(\displaystyle 10^30 \\). My nickname Quetta means 'I will be a person with infinite possibilities'.
+
+&nbsp;
+
+## Social media
+Instagram: [@baekyang_quetta](https://www.instagram.com/baekyang_quetta)\
+X: [@baekyang_quetta](https://twitter.com/baekyang_quetta)
