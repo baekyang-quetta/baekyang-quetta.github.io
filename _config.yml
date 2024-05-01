@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Quetta(백양)"
-  avatar           : https://drive.google.com/uc?export=view&id=188BTJjX7sz0d8C0DwZeb6tbQHZKnt8J3
+  avatar           : /assets/images/profile.png
   bio              : "Hello:)\n(I'm still studying how to make category...)"
   location         : "Korea, Seoul"
   email            : ""
