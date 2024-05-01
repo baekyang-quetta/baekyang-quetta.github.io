@@ -15,7 +15,7 @@ sidebar_main: true
 ## About
 Name: Quetta\
 Nationality: Korea\
-Quetta is one of the SI prefixes which means \\(\displaystyle 10^{30} \\). My nickname Quetta means 'I will be a person with infinite possibilities'.
+Quetta is one of the SI prefixes which means '10 to the power of 30'. My nickname Quetta means 'I will be a person with infinite possibilities'.
 
 &nbsp;
 
