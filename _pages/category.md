@@ -8,10 +8,20 @@ author_profile: true
 sidebar_main: true
 ---
 
-# **BLOG**
-## [Blog](https://baekyang-quetta.github.io/categories/blog)
+# **COMICS**
+## [Comics](https://baekyang-quetta.github.io/categories/comics)
 
 &nbsp;
 
-# **Croquis**
+# **CROQUIS**
 ## [Croquis](https://baekyang-quetta.github.io/categories/croquis)
+
+&nbsp;
+
+# **ILLUSTRATIONS**
+## [Illustrations](https://baekyang-quetta.github.io/categories/illustrations)
+
+&nbsp;
+
+# **ROUGHS**
+## [Roughs](https://baekyang-quetta.github.io/categories/roughs)
